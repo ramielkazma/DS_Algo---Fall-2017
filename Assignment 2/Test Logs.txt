@@ -1,0 +1,59 @@
+No solution is possible for: 
+8  3  0  
+
+No solution is possible for: 
+10  2  3  12  1  11  0  
+
+No solution is possible for: 
+8  8  13  12  10  0  
+
+No solution is possible for: 
+13  10  11  13  10  9  0  
+
+No solution is possible for: 
+10  3  11  9  0  
+
+No solution is possible for: 
+12  5  0  
+
+No solution is possible for: 
+4  9  10  12  1  13  0  
+
+Solution is possible for: 
+13  13  11  5  11  6  14  0  
+
+No solution is possible for: 
+13  3  0  
+
+No solution is possible for: 
+9  11  7  5  0  
+
+No solution is possible for: 
+14  14  0  
+
+No solution is possible for: 
+10  0  
+
+No solution is possible for: 
+7  0  
+
+No solution is possible for: 
+14  14  14  7  6  1  9  13  4  0  
+
+No solution is possible for: 
+10  1  11  0  
+
+Solution is possible for: 
+11  7  10  6  5  12  8  0  
+
+No solution is possible for: 
+7  2  3  9  9  5  3  0  
+
+No solution is possible for: 
+11  2  13  12  0  
+
+Solution is possible for: 
+1  0  
+
+Solution is possible for: 
+9  9  9  12  13  3  8  0  
